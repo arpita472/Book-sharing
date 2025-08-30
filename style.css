@@ -1,0 +1,42 @@
+.book-sharing-table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.book-sharing-table th, .book-sharing-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+.book-sharing-table th {
+    background-color: #f2f2f2;
+}
+.book-sharing-form input, .book-sharing-form select,
+.book-sharing-search-form input, .book-sharing-search-form select {
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.book-sharing-list {
+    list-style: none;
+    padding: 0;
+}
+.book-sharing-item {
+    background: #fafafa;
+    border: 1px solid #eee;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 4px;
+}
+.book-sharing-review {
+    margin-top: 10px;
+    font-style: italic;
+}
+.book-sharing-confirm {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.book-sharing-success {
+    color: green;
+}
+.book-sharing-error {
+    color: red;
+}
