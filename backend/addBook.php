@@ -17,3 +17,4 @@ if($q){
     echo "<script>alert('Error Adding Book: ".mysqli_error($conn)."'); window.location.href='../frontend/add-book.html';</script>";
 }
 ?>
+// add book backend updated
