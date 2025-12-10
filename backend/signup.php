@@ -24,3 +24,4 @@ if($q){
     echo "<script>alert('Error: ".mysqli_error($conn)."'); window.location.href='../frontend/signup.html';</script>";
 }
 ?>
+// signup backend updated
