@@ -26,3 +26,4 @@ if(mysqli_num_rows($q) == 1){
     echo "<script>alert('Invalid Email or Password'); window.location.href='../frontend/login.html';</script>";
 }
 ?>
+// login backend updated
