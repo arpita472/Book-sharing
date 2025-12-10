@@ -277,3 +277,4 @@ if (document.getElementById("profileName")) {
     });
 }
 
+// script updated
