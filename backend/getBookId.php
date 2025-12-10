@@ -12,3 +12,4 @@ if (mysqli_num_rows($q) == 1) {
     echo "0";
 }
 ?>
+// get book id updated
